@@ -6,7 +6,7 @@
 package newpractice;
 
 /**
- *
+ *Ripandeep Singh Kang
  * @author singh
  */
 public class NewPractice {
